@@ -1,0 +1,5 @@
+Semester,Spring,2023
+SWER141,3,Monday,10:00,12:00
+Biology,4,Wednesday,14:00,16:00
+Math,3,Tuesday,13:00,15:00
+SWER142,2,Thursday,9:00,11:00

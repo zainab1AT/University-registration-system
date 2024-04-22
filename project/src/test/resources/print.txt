@@ -1,0 +1,4 @@
+Weekly Schedule for TestStudent:
+Course: TestCourse
+Day: MONDAY, Time: 10:00 - 12:00
+Day: WEDNESDAY, Time: 14:00 - 16:00

@@ -1,0 +1,3 @@
+Rawan, Rawan@bethlehem
+SWER141, 3, MONDAY, 10:00, 12:00
+SWER142, 4, WEDNESDAY, 14:00, 16:00

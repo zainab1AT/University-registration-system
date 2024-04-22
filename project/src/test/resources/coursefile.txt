@@ -1,0 +1,49 @@
+# Test 1
+courseName= SWER141
+credits=3
+facultyName= Rawan
+facultyContactDetails=rawang@bethlehem.edu 
+dayOfWeek=MONDAY
+startTime=10:00
+endTime=11:00
+
+courseName=SWER142
+credits=3
+facultyName=Anas
+facultyContactDetails=asamara@bethlehem.edu
+dayOfWeek=WEDNESDAY
+startTime=13:30
+endTime=14:30
+
+courseName=SWER341
+credits=3
+facultyName=Suhail
+facultyContactDetails=sodeh@bethlehem.edu
+dayOfWeek=FRIDAY
+startTime=09:00
+endTime=10:30
+
+# Test 2
+courseName=Swer311
+credits=4
+facultyName=Suhail
+facultyContactDetails=sodeh@bethlehem.edu
+dayOfWeek=MONDAY
+startTime=10:30
+endTime=11:30
+
+courseName=341
+credits=4
+facultyName=Anas
+facultyContactDetails=asamara@bethlehem.edu
+dayOfWeek=TUESDAY
+startTime=15:00
+endTime=16:30
+
+courseName=SWER348
+credits=4
+facultyName=Rawan
+facultyContactDetails=rawang@bethlehem.edu 
+dayOfWeek=THURSDAY
+startTime=12:00
+endTime=13:30
